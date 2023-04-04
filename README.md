@@ -21,8 +21,8 @@
 - `William Vo`
 ## Technologies used:
 -`C++`
-- SFML: `Graphics, System, Window`
-- Boost:` regex, date/time, and unit test framework`
+- `SFML`: `Graphics, System, Window`
+- `Boost`:` regex, date/time, and unit test framework`
 
 
 
