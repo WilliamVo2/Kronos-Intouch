@@ -11,7 +11,7 @@
 - Set SFML environment:
 [SFML](https://www.sfml-dev.org/)
 - On Mac use `brew install sfml`
-- Run `brew info sfml`   tofind where is sfml locate. My SFML is `"opt/homebrew/Cellar/sfml/2.5.1_2"`. Use flag` -I` and `-L` for  `include`and `lib`.
+- Run `brew info sfml`  to find where is sfml locate. My SFML is `"opt/homebrew/Cellar/sfml/2.5.1_2"`. Use flag` -I` and `-L` for  `include`and `lib`.
 - Install boost
   - `brew install boost`
   - `brew info boost`. My boost version is `/opt/homebrew/Cellar/boost/1.81.0_1`
@@ -20,7 +20,7 @@
 ## Author
 - `William Vo`
 ## Technologies used:
--`C++`
+- `C++`
 - `SFML`: `Graphics, System, Window`
 - `Boost`:` regex, date/time, and unit test framework`
 
