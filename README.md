@@ -4,14 +4,14 @@
 - Create Kronos Time Clock: using Regular Expression Parsing to verify device boot up timing.
 
 ## Features:
-- First parse log file, then storing information from parsing, write the line output file.
+- First parse log file, then stored information from parsing, and wrote the line output file.
 
 ## To Set Up:
 - Git clone repository.
 - Set SFML environment:
 [SFML](https://www.sfml-dev.org/)
 - On Mac use `brew install sfml`
-- Run `brew info sfml`  to find where is sfml locate. My SFML is `"opt/homebrew/Cellar/sfml/2.5.1_2"`. Use flag` -I` and `-L` for  `include`and `lib`.
+- Run `brew info sfml`  to find where my sfml locate. My SFML located at `"opt/homebrew/Cellar/sfml/2.5.1_2"`. Use flag` -I` and `-L` for  `include`and `lib`.
 - Install boost
   - `brew install boost`
   - `brew info boost`. My boost version is `/opt/homebrew/Cellar/boost/1.81.0_1`
